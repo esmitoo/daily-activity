@@ -1,0 +1,1 @@
+echo "Today's date is $(date)" > log.txt
